@@ -1,4 +1,4 @@
 function
- addNum(a, b) {
-	return a + b;
+ DeductNum(a, b) {
+	return a - b;
 }
